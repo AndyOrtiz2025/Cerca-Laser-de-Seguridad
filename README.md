@@ -41,9 +41,6 @@ Además: espejos planos, protoboard y cables jumper.
 2. Abre el archivo `.ino` y súbelo al Arduino UNO.
 3. Si la pantalla no muestra nada, cambia la dirección I2C de `0x27` a `0x3F` en el código.
 
-## 🎥 Demostración
-
-[Ver video](LINK_DEL_VIDEO)
 
 ## 👥 Integrantes
 
